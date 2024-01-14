@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FİLM İSTATİSTİKLERİ</title>
+  </head>
+  <body>
+    <h1
+      style="
+        color: black;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      "
+    >
+      FİLMLERİ ANALİZLERİ
+
+      <header>
+        <p>
+          <em>
+            <strong>
+              NOT: filmlerin sıralaması IMDb puanlarına göre en düşük puandan en
+              yüksek puana göre yapılmıştır
+            </strong>
+            <strong>
+              Filmlere ait tanıtım yazıları beyazperden'alınmıştır.
+            </strong>
+          </em>
+        </p>
+      </header>
+
+      <section>
+        <aside>
+          <nav>
+            <ul>
+              <li><a href="#">Tüm Kategoriler</a></li>
+              <li><a href="#">Macera Kategorisi</a></li>
+              <li><a href="#">Romantizim Kategorisi</a></li>
+              <li><a href="#">Drama Kategorisi</a></li>
+            </ul>
+          </nav>
+        </aside>
+        <main>
+          <section id="movies">
+            <article>
+              <h2>
+                <a href="esaretinbedeli.html">Esaretin bedeli</a>
+              </h2>
+              <p>
+                Esaretin Bedeli", Shawshank Hapishanesi'nde yıllarını geçiren
+                iki mahkumun dostluğunu, umudunu ve özgürlüğe duyduğu özlemi
+                anlatan dokunaklı ve derinlemesine bir dram filmidir. Film,
+                adalet sistemine, insan doğasına ve kurtuluşa dair evrensel
+                temaları işleyerek izleyenlerin kalbine dokunmayı başarır.
+              </p>
+            </article>
+            <article>
+              <h2>
+                <a href="hababamsinifi.html">Hababam Sınıfı</a>
+                <p>
+                  Özel Çamlıca Lisesi'ne yeni atanan müdür muavini ve tarih
+                  öğretmeni olan Mahmut Hoca (Kel Mahmut) kopya çeken, okuldan
+                  kaçıp maçlara giden, hocalarla sürekli kafa bulan öğrencilerle
+                  dolu okulun 6-A Edebiyat sınıfını, namıdiğer Hababam Sınıfı'nı
+                  ilginç ve ağır ceza yöntemleriyle disiplin altına almaya
+                  çalışır. Fakat aynı zamanda öğrencilerin haylazlığı dışında
+                  ciddi olaylar da yaşanmaktadır.
+                </p>
+              </h2>
+            </article>
+            <article>
+              <a href="baba.html">BABA</a>
+              <p>
+                Baba, Puzo'nun 1969 tarihli aynı adlı en çok satan romanından
+                uyarlanan, Mario Puzo ile birlikte senaryoyu yazan Francis Ford
+                Coppola tarafından yönetilen, 1972 yapımı bir Amerikan destansı
+                suç filmidir . Filmin başrollerinde Marlon Brando , Al Pacino ,
+                James Caan , Richard Castellano , Robert Duvall , Sterling
+                Hayden , John Marley , Richard Conte ve Diane Keaton yer alıyor
+                . Baba üçlemesinin ilk bölümü olan bu film, 1945'ten 1955'e
+                kadar patrik Vito Corleone'nin (Brando) yönetimindeki Corleone
+                ailesini anlatıyor . En küçük oğlu Michael Corleone'nin
+                (Pacino), isteksiz aile yabancısından acımasız mafya patronuna
+                dönüşümüne odaklanıyor. .
+              </p>
+            </article>
+          </section>
+        </main>
+      </section>
+
+      <footer>tüm hakları saklıdır</footer>
+    </h1>
+  </body>
+</html>
