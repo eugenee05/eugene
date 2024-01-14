@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title style="color: black">BCT WEB ANASAYFA</title>
+  </head>
+  <body style="color: red">
+    <h1>BÜTÜN ÇALIŞMALAR BAŞLIĞIM</h1>
+    <div id="BCT1">
+      <ol>
+        <h2>
+          <li>
+            <a href="eniyifilmler.html" target="_blank"
+              >Buraya tıklayarak en iyi filmlerin olduğu sayfaya eriş</a
+            >
+          </li>
+          <br /><br />
+          <li>
+            <a href="formatting-tags.html" target="_blank"
+              >Buraya tıklayarak deneme1'e eriş</a
+            >
+          </li>
+          <br /><br />
+          <li>
+            <a href="header-tags.html" target="_blank"
+              >Buraya tıklayarak deneme2'ye eriş</a
+            >
+          </li>
+          <br /><br />
+          <li>
+            <a href="magbilgilendirme.html" target="_blank"
+              >Buraya tıklayarak MAG bilgilendirmeye eriş</a
+            >
+          </li>
+          <br /><br />
+          <li>
+            <a href="paragraf.html" target="_blank"
+              >Buraya tıklayarak deneme3'e eriş</a
+            >
+          </li>
+          <br /><br />
+          <li>
+            <a href="yuzuklerin-efendisi-yuzuk-kardesligi.html" target="_blank"
+              >Buraya tıklayarak yüzüklerin efendisi denemeye ulaş</a
+            >
+          </li>
+          <br /><br />
+          <li>
+            <a href="filmistatistikler.html"
+              >Buraya Tıklayarak Film İstatistiklerimizi Görebilirsiniz</a
+            >
+          </li>
+          <br><br>
+          <li>
+            <a href="tables.html" target="_blank"> Tablo için tıkla</a>
+          </li>
+        
+        </h2>
+      </ol>
+    </div>
+  </body>
+</html>
