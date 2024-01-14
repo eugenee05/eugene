@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>En İyi Filmler</title>
+  </head>
+  <body>
+    <h1>Ölmeden Önce İzlemeniz Gereken Film Önerileri!</h1>
+
+    <div id="BCT2">
+      <p>Sinema severler <strong>için hazirladiğimiz filmler</strong></p>
+
+      <p>
+        <em>
+          <strong> Not: filmler IMDb puanina göre siralandi </strong>
+        </em>
+      </p>
+    </div>
+    <ol>
+      <div id="BCT3">
+        <h2>
+          <li>
+            <a href="#ESARETİN BEDELİ">ESARETİN BEDELİ -</a>
+            <b></b>
+          </li>
+          <li>
+            <a href="#HABABAM SINIFI">HABABAM SINIFI -</a>
+            <b></b>
+          </li>
+          <li>
+            <a href="#BABA">BABA</a>
+          </li>
+        </h2>
+      </div>
+    </ol>
+    <div id="BCT4">
+      <ol>
+        <li style="color: red">
+          <h2 id="ESARETİN BEDELİ" style="color: red">ESARETİN BEDELİ</h2>
+        </li>
+        <img src="esaretin bedeli.jpg" alt="ESARETİN BEDELİ" width="200" />
+
+        <h2><a href="esaretinbedeli.html"> FİLMİ İZLEMEK İÇİN TIKLA </a></h2>
+
+        <a href="esaretin bedeli.zip"> resmi indir</a>
+
+        <br />
+        <p style="color: blue">EN İYİ FİLMLER ARASINDA YER ALIR</p>
+
+        <li style="color: red">
+          <h2 id="HABABAM SINIFI" style="color: red">HABABAM SINIFI</h2>
+        </li>
+        <img src="Hababam-sinifi.jpg" alt="Hababam-sinifi" width="200" />
+
+        >
+        <h2><a href="hababamsinifi.html">FİLMİ İZLEMEK İÇİN TIKLA </a></h2>
+
+        <a href="Hababam-sinifi.zip">resmi indir</a>
+
+        <p style="color: blue">EN İYİ FİLMLER ARASINDA YER ALIR</p>
+
+        <li style="color: red"><h2 id="BABA" style="color: red">BABA</h2></li>
+        <img src="baba-1660915256.jpg" alt="BABA" width="200" />
+
+        <h2><a href="baba.html"> FİLMİ İZLEMEK İÇİN TIKLA </a></h2>
+
+        <a href="baba-1660915256 - Kopya.zip" <> resmi indir </a>
+
+        <p style="color: blue">EN İYİ FİLMLER ARASINDA YER ALIR</p>
+      </ol>
+    </div>
+  </body>
+</html>
