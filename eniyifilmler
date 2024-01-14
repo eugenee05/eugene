@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>tablo</title>
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <th>id</th>
+          <th>ürün adı</th>
+          <th>fiyat</th>
+          <th>resmi</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>1</td>
+          <td>iphone11</td>
+          <td>7000</td>
+          <td>1.jpg</td>
+        </tr>
+        <tr>
+          <td>2</td>
+          <td>iphone12</td>
+          <td>8000</td>
+          <td>2.jpg</td>
+        </tr>
+        <tr>
+          <td>3</td>
+          <td>iphone13</td>
+          <td>9000</td>
+          <td>3.jpg</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Kurs adı</th>
+          <th>Açıklama</th>
+          <th>Resim</th>
+          <th>Kategori</th>
+          <th>Kursu incele</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>web</td>
+          <td>sıfırdan 100 e</td>
+          <td>1.jpg</td>
+          <td>WEB</td>
+          <td>
+            <a
+              href="https://www.udemy.com/course/komple-web-developer-kursu/learn/lecture/7784330#overview"
+              target="_blank"
+              >kursu incele</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>web</td>
+          <td>sıfırdan 100 e</td>
+          <td>1.jpg</td>
+          <td>WEB</td>
+          <td>
+            <a
+              href="https://www.udemy.com/course/komple-web-developer-kursu/learn/lecture/7784330#overview"
+              target="_blank"
+              >kursu incele</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>web</td>
+          <td>sıfırdan 100 e</td>
+          <td>1.jpg</td>
+          <td>WEB</td>
+          <td>
+            <a
+              href="https://www.udemy.com/course/komple-web-developer-kursu/learn/lecture/7784330#overview"
+              target="_blank"
+              >kursu incele</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>web</td>
+          <td>sıfırdan 100 e</td>
+          <td>1.jpg</td>
+          <td>WEB</td>
+          <td>
+            <a
+              href="https://www.udemy.com/course/komple-web-developer-kursu/learn/lecture/7784330#overview"
+              target="_blank"
+              >kursu incele</a
+            >
+          </td>
+        </tr>
+        <tr>
+          <td>web</td>
+          <td>sıfırdan 100 e</td>
+          <td>1.jpg</td>
+          <td>WEB</td>
+          <td>
+            <a
+              href="https://www.udemy.com/course/komple-web-developer-kursu/learn/lecture/7784330#overview"
+              target="_blank"
+              >kursu incele</a
+            >
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
