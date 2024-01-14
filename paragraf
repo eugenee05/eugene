@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body style="color: blue">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus vero
+    incidunt distinctio deleniti quasi, fugit delectus in nihil odio ad et
+    itaque, eligendi enim quaerat fugiat laborum tenetur temporibus? Amet!
+    <br /><br />
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic dolores
+    recusandae quaerat tempora in aut sapiente maxime, consequuntur, ratione
+    eveniet perspiciatis, fugiat perferendis ea dignissimos et provident? Et,
+    maxime magni.
+
+    <p style="color: red">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo doloremque
+      provident, eaque nobis sequi deleniti blanditiis quaerat similique,
+      tempore assumenda commodi alias ratione, quisquam quae nulla culpa facere
+      maxime magni?
+    </p>
+
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam animi
+      sint vero consectetur quidem maiores accusantium quibusdam sunt hic
+      pariatur nostrum optio accusamus, maxime est laboriosam, molestiae sed qui
+      aspernatur?
+    </p>
+  </body>
+</html>
